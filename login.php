@@ -1,5 +1,4 @@
 <?php
-// Usunięte logowanie i sesje
+// login.php
 header("Location: dashboard.php");
 exit;
-?>
